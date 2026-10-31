@@ -1,0 +1,10 @@
+*
+!package.json
+!package-lock.json
+!tsconfig.json
+!src/
+!src/**
+src/tests/
+src/worker/
+**/*.test.ts
+**/*.spec.ts
