@@ -2,7 +2,7 @@ name: Publish HTTP Docker image
 
 on:
   push:
-    branches: [main]
+    branches: [analogrelay/main]
     tags: ["v*.*.*"]
   workflow_dispatch:
 
